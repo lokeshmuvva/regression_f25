@@ -29,10 +29,10 @@ variable selection techniques. Programming language is Python.
 |Week 1| 8/21 | Intro, Simple Linear Regression: parameter estimation, mean, variance | Sec. 1.5 & 1.6 |   |
 |Week 2| 8/25 & 8/28  | SLR: parameter distributions, sum of squares decomposition | Sec. 1.7, 2.1, 2.2,  2.7| [HW1 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW1.pdf) |
 |Week 3| 9/1 (No Class - Labor Day) & 9/4 | SLR: confidence and prediction intervals, model assumptions and diagnostics; ANOVA and the F-test | 2.4-5, 3.1-3 | [HW2 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW2.pdf)|
-|Week 4| 9/8 & 9/11 |  Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| 6.1-6, 7.1-6  | [HW3 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW3.pdf) + Exam 1|
-|Week 5| 9/15 & 9/18 |MLR:  Feature engineering &  Modeling Problems| 3.7, 7.1-6, 8.3 | [HW4 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW4.pdf) |
-|Week 6| 9/22 & 9/25 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW5.pdf)  |
-|Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW6.pdf)  |
+|Week 4| 9/8 & 9/11 |  Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| 6.1-6, 7.1-6  | Exam 1|
+|Week 5| 9/15 & 9/18 |MLR:  Feature engineering &  Modeling Problems| 3.7, 7.1-6, 8.3 | [HW3 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW3.pdf) |
+|Week 6| 9/22 & 9/25 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW4 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW4.pdf)  |
+|Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 5 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW5.pdf)  |
 |Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 |  Exam 2 (10/7) + [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project) (10/9) |
 
 
